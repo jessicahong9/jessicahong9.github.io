@@ -65,7 +65,7 @@ div.resumeleftbar {
 
 div.resumerightbar {
     float: right;
-    width: 600px;
+    width: 700px;
     text-align: left;
 }
 
@@ -75,11 +75,11 @@ div.rcat {
 }
 
 div.rheader {
-    font-size: 20px;
+    font-size: 25px;
 
 }
 
 div.des {
-    font-size: 18px;
+    font-size: 19px;
 }
 
