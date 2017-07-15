@@ -60,12 +60,12 @@ of those sections to manage the look and feel of the site. */
 div.resumeleftbar {
     float: left;
     text-align: right;
-    width: 150px;
+    width: 50px;
 }
 
 div.resumerightbar {
     float: right;
-    width: 700px;
+    width: 800px;
     text-align: left;
 }
 
@@ -75,11 +75,11 @@ div.rcat {
 }
 
 div.rheader {
-    font-size: 25px;
+    font-size: 23px;
 
 }
 
 div.des {
-    font-size: 19px;
+    font-size: 17px;
 }
 
