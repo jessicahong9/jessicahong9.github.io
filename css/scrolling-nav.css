@@ -59,8 +59,8 @@ of those sections to manage the look and feel of the site. */
 
 div.resumeleftbar {
     float: left;
-    text-align: left;
-    width: 250px;
+    text-align: right;
+    width: 150px;
 }
 
 div.resumerightbar {
@@ -72,12 +72,18 @@ div.resumerightbar {
 div.rcat {
     font-size: 30px;
     line-height: 1.1;
-    color: #6699ff;
 }
 
 div.rheader {
-    font-size: 30px;
+    font-size: 20px;
 
 }
 
+div.name {
+    color: #6699ff;
+}
+
+div.des {
+    font-size: 15px;
+}
 
