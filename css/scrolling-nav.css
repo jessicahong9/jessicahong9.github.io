@@ -67,17 +67,17 @@ div.resumerightbar {
     float: right;
     width: 600px;
     text-align: right;
-    margin-left: 50px;
 }
 
 div.rcat {
     font-size: 30px;
     line-height: 1.1;
-    color: #2a8db7;
+    color: #6699ff;
 }
 
 div.rheader {
-    font-size: 15px;
+    font-size: 30px;
+
 }
 
 
