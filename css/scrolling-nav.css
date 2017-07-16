@@ -57,10 +57,6 @@ of those sections to manage the look and feel of the site. */
     background: #eee;
 }
 
-div {
-    display: block;
-}
-
 div.resumeleftbar {
     float: left;
     text-align: right;
