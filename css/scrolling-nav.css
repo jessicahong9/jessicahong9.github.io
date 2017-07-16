@@ -34,7 +34,7 @@ of those sections to manage the look and feel of the site. */
     border-radius: 50%;
 }
 
-.intro-section {
+.intro-sexsction {
     height: 100%;
     padding-top: 150px;
     padding-bottom: 150px;
@@ -69,6 +69,10 @@ div.resumerightbar {
     text-align: left;
 }
 
+div.resumerow {
+    margin-bottom: 50px;
+}
+
 div.rcat {
     font-size: 30px;
     line-height: 1.1;
@@ -81,5 +85,6 @@ div.rheader {
 
 div.des {
     font-size: 17px;
+    margin-bottom: 10px;
 }
 
