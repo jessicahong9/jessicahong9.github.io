@@ -110,5 +110,8 @@ div{
     display: block;
 }
 
+td{
+    padding-bottom: 10px;
+}
 
 
