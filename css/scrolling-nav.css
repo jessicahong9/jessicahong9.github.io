@@ -99,10 +99,10 @@ header a{display:inline-block; width:60px;
 }
 
 section {
-    max-width: 68em;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 
