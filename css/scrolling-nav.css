@@ -50,7 +50,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .contact-section {
-
+height: 100%
     padding-top: 150px;
     padding-bottom: 150px;
     text-align: center;
@@ -92,6 +92,8 @@ div.des {
     margin-bottom: 10px;
 }
 
-header{text-align:center;}
+header{
+padding-top: 150px;
+    text-align:center;}
 header a{display:inline-block; width:60px;
 }
