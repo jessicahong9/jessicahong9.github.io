@@ -73,7 +73,7 @@ div.resumerightbar {
     text-align: left;
 }
 
-div.resumerow {
+#section div.resumerow {
     margin-top: 50px;
     margin-bottom: 50px;
 }
