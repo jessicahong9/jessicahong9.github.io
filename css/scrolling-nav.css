@@ -92,3 +92,6 @@ div.des {
     margin-bottom: 10px;
 }
 
+header{text-align:center;}
+header a{display:inline-block; width:60px;
+}
