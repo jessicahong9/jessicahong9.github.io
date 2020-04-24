@@ -27,17 +27,17 @@ function generateNavbar(nav, selectedItem) {
         .attr("class", selectedItem == "about" ? "active" : "")
         .append("a")
         .attr("href", "/index.html")
-        .text("about")
+        .text("ABOUT")
     links.append("div")
         .attr("class", selectedItem == "projects" ? "active" : "")
         .append("a")
         .attr("href", "/projects.html")
-        .text("projects")
+        .text("PROJECTS")
     links.append("div")
         .attr("class", selectedItem == "resume" ? "active" : "")
         .append("a")
         .attr("href", "/JessicaHongResume.pdf")
-        .text("resume")
+        .text("RESUME")
 }
 
 function generateFooter(foot) {
