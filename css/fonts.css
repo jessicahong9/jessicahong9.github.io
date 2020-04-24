@@ -1,0 +1,129 @@
+@import "https://fonts.googleapis.com/css?family=Muli:400,600,700,900|PT+Serif&display=swap";
+
+/*@font-face {*/
+/*    font-family: 'Ore';*/
+/*    src: url('./fonts/ore/oranienbaum-webfont.woff2') format('woff2'),*/
+/*    url('./fonts/ore/oranienbaum-webfont.woff') format('woff');*/
+/*    font-weight: normal;*/
+/*    font-style: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*    font-family: 'Vogue';*/
+/*    src: url('./fonts/vogue/vogue-webfont.woff2') format('woff2'),*/
+/*    url('./fonts/vogue/vogue-webfont.woff') format('woff');*/
+/*    font-weight: normal;*/
+/*    font-style: normal;*/
+/*}*/
+
+header {
+    color: #292933;
+    /*font-family: 'Vogue';*/
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+    margin: 16px 0px 16px 0px;
+    padding: 0px;
+    text-align: left;
+    transition: .2s ease;
+    width: 100%;
+}
+
+section {
+    background: -webkit-linear-gradient(#FF5C70, #462CD8);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    /*font-family: 'Ore';*/
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+    margin: 16px 0px 16px 0px;
+    padding: 0px;
+    text-align: left;
+    width: 100%;
+}
+
+h1 {
+    color: #bfbfbf;
+    /*font-family: 'Vogue';*/
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    margin: 16px 0px 16px 0px;
+    padding: 0px;
+    text-align: left;
+    width: 100%;
+    line-height: 1.5;
+}
+
+h2 {
+    color: #b9b9b9;
+    /*font-family: 'Vogue';*/
+    font-size: 24px;
+    font-weight: 900;
+    letter-spacing: 10px;
+    line-height: 1.5;
+    margin: 8px 0px 16px 0px;
+    padding: 0px;
+    text-align: left;
+    width: 100%;
+}
+
+h3 {
+    color: #292933;
+    /*font-family: 'Ore';*/
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+    margin: 8px 0px 8px 0px;
+    padding: 0px;
+    text-align: left;
+    width: 100%;
+}
+
+h4 {
+    color: #bfbfbf;
+    /*font-family: 'Muli';*/
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0.25px;
+    line-height: 1.5;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+}
+
+h5 {
+    color: #292933;
+    /*font-family: 'Muli';*/
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 0.25px;
+    line-height: 1.5;
+    margin: 8px 0px 8px 0px;
+    padding: 0px;
+    text-align: left;
+}
+
+h6 {
+    color: #292933;
+    /*font-family: 'Muli';*/
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0.25px;
+    line-height: 1.5;
+    margin: 8px 0px 8px 0px;
+    padding: 0px;
+    text-align: left;
+}
+
+@media screen and (min-width: 400px) {
+    header {
+        font-size: 72px;
+        transition: .2s ease;
+    }
+}

@@ -1,0 +1,13 @@
+i {
+    font-size: 24px;
+    color: #bfbfbf;
+    margin: 24px 8px 8px 8px;
+    transition: .2s ease;
+    height: 50px;
+}
+
+i:hover {
+    margin: 8px 8px 8px 8px;
+    transition: .2s ease;
+    font-size: 32px;
+}
