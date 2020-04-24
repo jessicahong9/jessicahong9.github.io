@@ -31,7 +31,12 @@ function generateNavbar(nav, selectedItem) {
     links.append("div")
         .attr("class", selectedItem == "resume" ? "active" : "")
         .append("a")
-        .attr("href", "/resume.html")
+        .attr("href", "/JessicaHongResume.pdf")
+        .text("resume")
+    links.append("div")
+        .attr("class", selectedItem == "projects" ? "active" : "")
+        .append("a")
+        .attr("href", "/projects.html")
         .text("resume")
 }
 
