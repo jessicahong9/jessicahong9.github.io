@@ -32,10 +32,10 @@
     d3.json("./work.json").then((data) => {
 
         section = d3.select("div#mainrow").append("div")
-            .attr("id", "WORK EXPERIENCE")
+            .attr("id", "work")
             .style("padding", "25px")
 
-        section.append("header").style('padding-left', '20px').text('PROJECTS')
+        section.append("header").style('padding-left', '20px').text('WORK EXPERIENCE')
 
         generateProjects( data, section)
     });
