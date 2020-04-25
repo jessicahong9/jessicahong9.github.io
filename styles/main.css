@@ -31,6 +31,12 @@ body {
     padding: 4px;
 }
 
+.column2 {
+    -ms-flex: 20%;
+    flex: 20%;
+    padding: 4px;
+}
+
 .column img {
     margin: 4px 0px 4px 0px;
     transition: .5s ease;
