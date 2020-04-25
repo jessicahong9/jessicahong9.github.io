@@ -28,6 +28,8 @@ function generateProjects(data, section) {
         d.links.forEach(l => {
            columnright.append("div")
                .append("a")
+               .style('font-family', 'Open Sans')
+               .style('color', 'black')
                .attr("href", l.href)
                .text(" → " + l.title)
         })
