@@ -17,7 +17,7 @@
     "title": "Turning Silicon into Gold",
     "role": "Co-Author",
     "time": "",
-    "image": "/pictures/ArtistProf.png",
+    "image": "/pictures/book.png",
     "description": [
       "25 case studies examining the strategies, failures, and evolution of the Tech Industry."],
     "links": [
@@ -31,7 +31,7 @@
     "title": "Lyft",
     "role": "Software Engineering Intern, Organic Growth",
     "time": "Fall 2019",
-    "image": "/pictures/ArtistProf.png",
+    "image": "/pictures/lyft.png",
     "description": [
       "Designed and implemented backend data pipeline and API to launch 200k Lyft City Guides using Flask, Presto, and DynamoDB to generate 100k+ page views of organic traffic through SEO"],
     "links": [
@@ -45,7 +45,7 @@
     "title": "Google",
     "role": "Associate Product Manager, News on Search",
     "time": "Summer 2019",
-    "image": "/pictures/ArtistProf.png",
+    "image": "/pictures/news.png",
     "description": [
       "Lead product development for several features on Top Stories and News Mode on Google search"],
     "links": [
