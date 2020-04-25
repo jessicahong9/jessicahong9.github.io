@@ -20,11 +20,11 @@
 header {
     color: #292933;
     font-family: 'Abril Fatface';
-    font-size: 48px;
+    font-size: 45px;
     font-weight: 400;
     letter-spacing: 0.5px;
     line-height: 1.5;
-    margin: 0px 0px 10px 0px;
+    margin: 0px 0px 0px 0px;
     padding: 0px;
     text-align: left;
     transition: .2s ease;
