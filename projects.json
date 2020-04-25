@@ -55,7 +55,7 @@
     "title": "Carriage",
     "role": "Co-Founder",
     "time": "Spring 2019",
-    "image": "/pictures/ArtistProf.png",
+    "image": "/pictures/carriage.png",
     "description": [
       "We built a paratransit application to provide more flexible transportation options to those with disabilities at Cornell. Now living at Cornell Design & Tech Initiative"],
     "links": [
@@ -69,7 +69,7 @@
     "title": "Google",
     "role": "Engineering Practicum Intern, Google Earth Engine",
     "time": "Summer 2018",
-    "image": "/pictures/ArtistProf.png",
+    "image": "/pictures/earthengine.png",
     "description": [
       "Created a Color API and GIF encoding service for Google Earth Engine"],
     "links": [

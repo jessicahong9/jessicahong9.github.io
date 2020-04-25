@@ -22,9 +22,9 @@ function generateProjects(data, section) {
         d.links.forEach(l => {
            columnright.append("div")
                .append("a")
-               .attr("href", href)
+               .attr("href", l.href)
                .attr("class", "button")
-               .text(" → " + title)
+               .text(" → " + l.title)
         })
     });
 }
