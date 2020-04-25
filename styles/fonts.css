@@ -123,7 +123,7 @@ h6 {
 
 @media screen and (min-width: 400px) {
     header {
-        font-size: 35px;
+        font-size: 45px;
         transition: .2s ease;
     }
 }
