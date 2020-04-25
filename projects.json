@@ -1,0 +1,82 @@
+[
+  {
+    "title": "ArtistProf",
+    "role": "Co-Founder",
+    "time": "",
+    "image": "/pictures/ArtistProf.png",
+    "description": [
+      "Democritizing the entertainment industry"],
+    "links": [
+      {
+        "title": "CHECK IT OUT",
+        "href": "https://artistprof.com"
+      }
+    ]
+  } ,
+  {
+    "title": "Turning Silicon into Gold",
+    "role": "Co-Author",
+    "time": "",
+    "image": "/pictures/ArtistProf.png",
+    "description": [
+      "25 case studies examining the strategies, failures, and evolution of the Tech Industry."],
+    "links": [
+      {
+        "title": "CHECK IT OUT",
+        "href": "https://www.barnesandnoble.com/w/turning-silicon-into-gold-griffin-kao/1135740864"
+      }
+    ]
+  } ,
+  {
+    "title": "Lyft",
+    "role": "Software Engineering Intern, Organic Growth",
+    "time": "Fall 2019",
+    "image": "/pictures/ArtistProf.png",
+    "description": [
+      "Designed and implemented backend data pipeline and API to launch 200k Lyft City Guides using Flask, Presto, and DynamoDB to generate 100k+ page views of organic traffic through SEO"],
+    "links": [
+      {
+        "title": "CHECK THEM OUT",
+        "href": "https://www.lyft.com/rider/city-guides/san-francisco--ca"
+      }
+    ]
+  } ,
+  {
+    "title": "Google",
+    "role": "Associate Product Manager, News on Search",
+    "time": "Summer 2019",
+    "image": "/pictures/ArtistProf.png",
+    "description": [
+      "Lead product development for several features on Top Stories and News Mode on Google search"],
+    "links": [
+    ]
+  } ,
+  {
+    "title": "Carriage",
+    "role": "Co-Founder",
+    "time": "Spring 2019",
+    "image": "/pictures/ArtistProf.png",
+    "description": [
+      "We built a paratransit application to provide more flexible transportation options to those with disabilities at Cornell. Now living at Cornell Design & Tech Initiative"],
+    "links": [
+      {
+        "title": "CHECK IT OUT",
+        "href": "https://carriage.maxmchu.com/"
+      }
+    ]
+  } ,
+  {
+    "title": "Google",
+    "role": "Engineering Practicum Intern, Google Earth Engine",
+    "time": "Summer 2018",
+    "image": "/pictures/ArtistProf.png",
+    "description": [
+      "Created a Color API and GIF encoding service for Google Earth Engine"],
+    "links": [
+      {
+        "title": "CHECK IT OUT",
+        "href": "https://earthengine.google.com/"
+      }
+    ]
+  }
+]
