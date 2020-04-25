@@ -24,7 +24,7 @@
 <script>
     generateNavbar(d3.select("div#navbar"), "projects")
 
-    d3.json("./work.json").then((data) => {
+    d3.json("./projects.json").then((data) => {
 
         section = d3.select("div#maingrid").append("div")
             .attr("id", "projects")
