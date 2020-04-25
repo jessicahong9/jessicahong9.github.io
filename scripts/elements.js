@@ -31,7 +31,7 @@ function generateNavbar(nav, selectedItem) {
         .attr("href", "/index.html")
         .text("ABOUT")
     links.append("div")
-        .attr("class", selectedItem == "projects" ? "active" : "")
+        .attr("class", selectedItem == "work" ? "active" : "")
         .append("a")
         .attr("href", "/work.html")
         .text("WORK")
