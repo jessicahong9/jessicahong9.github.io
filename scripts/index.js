@@ -16,7 +16,7 @@ function generateProjects(data, section) {
             .style("align-items", "center")
             .style("min-height", 36)
             .append("h3")
-            .text(d.title.toUpperCase())
+            .text(d.title)
 
         if(d.time != "") {
             columnright.append("h4").text(d.role + " // " + d.time)
