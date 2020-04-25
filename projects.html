@@ -35,12 +35,8 @@
             .attr("id", "projects")
             .style("padding", "25px")
 
-            section.append("header").text('PROJECTS')
-            section.append("div")
-                .style("background-color", "#ebebeb")
-                .style("width", "100%")
-                .style("height", 1)
-            // Add work by section.
+            section.append("header").style('padding-left', '20px').text('PROJECTS')
+
             generateProjects( data, section)
     });
 
