@@ -19,14 +19,16 @@
 <div id="navbar"></div>
 <div id="header"></div>
 <div id="index"></div>
-<div id="maingrid"></div>
+<div id="maingrid" style="padding-top: 30px" >
+    <div  id="mainrow" class="row" style="margin-bottom: 48px;"></div>
+</div>
 <div id="footer"></div>
 <script>
     generateNavbar(d3.select("div#navbar"), "projects")
 
     d3.json("./projects.json").then((data) => {
 
-        section = d3.select("div#maingrid").append("div")
+        section = d3.select("div#mainrow").append("div")
             .attr("id", "projects")
             .style("padding", "48px 0px 48px 0px")
 
