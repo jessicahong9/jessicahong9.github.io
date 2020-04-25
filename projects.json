@@ -14,20 +14,6 @@
     ]
   } ,
   {
-    "title": "Turning Silicon into Gold",
-    "role": "Co-Author",
-    "time": "",
-    "image": "/pictures/book.png",
-    "description": [
-      "25 case studies examining the strategies, failures, and evolution of the Tech Industry."],
-    "links": [
-      {
-        "title": "CHECK IT OUT",
-        "href": "https://www.barnesandnoble.com/w/turning-silicon-into-gold-griffin-kao/1135740864"
-      }
-    ]
-  } ,
-  {
     "title": "Lyft - Organic Growth",
     "role": "Software Engineering Intern",
     "time": "Fall 2019",
@@ -41,6 +27,20 @@
       }
     ]
   } ,
+  {
+    "title": "Turning Silicon into Gold",
+    "role": "Co-Author",
+    "time": "",
+    "image": "/pictures/book.png",
+    "description": [
+      "25 case studies examining the strategies, failures, and evolution of the Tech Industry."],
+    "links": [
+      {
+        "title": "CHECK IT OUT",
+        "href": "https://www.barnesandnoble.com/w/turning-silicon-into-gold-griffin-kao/1135740864"
+      }
+    ]
+  }  ,
   {
     "title": "Google - News on Search",
     "role": "Associate Product Manager",
