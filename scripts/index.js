@@ -17,7 +17,13 @@ function generateProjects(data, section) {
             .style("min-height", 36)
             .append("h3")
             .text(d.title)
-        columnright.append("h4").text(d.role + " // " + d.time)
+
+        if(d.time != null) {
+            columnright.append("h4").text(d.role + " // " + d.time)
+        } else {
+            columnright.append("h4").text(d.role)
+        }
+
         d.description.forEach(desc => { columnright.append("h6").text(desc) });
         d.links.forEach(l => {
            columnright.append("div")
