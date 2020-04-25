@@ -21,7 +21,7 @@ function generateNavbar(nav, selectedItem) {
     links = navbar.append("div")
         .style("position", "absolute")
         .style("font-family", "Montserrat")
-        .style("right", 50)
+        .style("right", 30)
         .style("top", 50)
         .style("display", "flex")
         .style("align-items", "center")
