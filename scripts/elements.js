@@ -1,14 +1,4 @@
 
-function generateSubsectionHeader(parent, id, title) {
-    section = parent.append("div")
-        .attr("id", id)
-        .style("padding", "48px 0px 0px 0px")
-    section.append("h2").text(title)
-    // section.append("div")
-    //     .style("background-color", "#ebebeb")
-    //     .style("width", "100%")
-    //     .style("height", 1)
-}
 
 function generateNavbar(nav, selectedItem) {
     navbar = nav.append("div")

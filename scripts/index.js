@@ -29,7 +29,6 @@ function generateProjects(data, section) {
            columnright.append("div")
                .append("a")
                .attr("href", l.href)
-               .attr("class", "button")
                .text(" → " + l.title)
         })
     });
