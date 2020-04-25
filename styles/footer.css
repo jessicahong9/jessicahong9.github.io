@@ -7,7 +7,5 @@ i {
 }
 
 i:hover {
-    margin: 8px 8px 8px 8px;
-    transition: .2s ease;
-    font-size: 32px;
+    color: #595959;
 }
