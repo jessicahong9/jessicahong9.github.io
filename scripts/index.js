@@ -18,7 +18,7 @@ function generateProjects(data, section) {
             .append("h3")
             .text(d.title)
 
-        if(d.time != null) {
+        if(d.time != "") {
             columnright.append("h4").text(d.role + " // " + d.time)
         } else {
             columnright.append("h4").text(d.role)

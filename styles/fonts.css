@@ -87,7 +87,7 @@ h3 {
 
 h4 {
     color: #bfbfbf;
-    /*font-family: 'Muli';*/
+    font-family: 'Open Sans';
     font-size: 12px;
     font-weight: 300;
     letter-spacing: 0.25px;
@@ -99,7 +99,7 @@ h4 {
 
 h5 {
     color: #292933;
-    /*font-family: 'Muli';*/
+    font-family: 'Open Sans';
     font-size: 18px;
     font-weight: 300;
     letter-spacing: 0.25px;
@@ -111,7 +111,7 @@ h5 {
 
 h6 {
     color: #292933;
-    /*font-family: 'Muli';*/
+    font-family: 'Open Sans';
     font-size: 12px;
     font-weight: 300;
     letter-spacing: 0.25px;
