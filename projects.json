@@ -28,8 +28,8 @@
     ]
   } ,
   {
-    "title": "Lyft",
-    "role": "Software Engineering Intern, Organic Growth",
+    "title": "Lyft - Organic Growth",
+    "role": "Software Engineering Intern",
     "time": "Fall 2019",
     "image": "/pictures/lyft.png",
     "description": [
@@ -42,8 +42,8 @@
     ]
   } ,
   {
-    "title": "Google",
-    "role": "Associate Product Manager, News on Search",
+    "title": "Google - News on Search",
+    "role": "Associate Product Manager",
     "time": "Summer 2019",
     "image": "/pictures/news.png",
     "description": [
@@ -66,8 +66,8 @@
     ]
   } ,
   {
-    "title": "Google",
-    "role": "Engineering Practicum Intern, Google Earth Engine",
+    "title": "Google - Google Earth Engine",
+    "role": "Engineering Practicum Intern",
     "time": "Summer 2018",
     "image": "/pictures/earthengine.png",
     "description": [
