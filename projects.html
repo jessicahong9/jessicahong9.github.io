@@ -14,6 +14,7 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Asap' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Abril Fatface' rel='stylesheet'>
 </head>
 
@@ -35,7 +36,7 @@
             .attr("id", "projects")
             .style("padding", "25px")
 
-            section.append("header").style('padding-left', '20px').text('PROJECTS')
+            section.append("h1").style('padding-left', '20px').text('PROJECTS')
 
             generateProjects( data, section)
     });
