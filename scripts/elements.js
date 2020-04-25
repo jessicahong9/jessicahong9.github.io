@@ -4,7 +4,7 @@ function generateNavbar(nav, selectedItem) {
     navbar = nav.append("div")
         .attr("class", "maingrid")
         .append("div")
-        .style("padding", "24px 0px 0px 0px")
+        .style("padding", "15px 0px 0px 0px")
         .append("div")
         .attr("class", "navbar row")
         .style("align-items", "center")
