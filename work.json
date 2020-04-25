@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Lyft - Organic Growth",
+    "role": "Software Engineering Intern",
+    "time": "Fall 2019",
+    "image": "/pictures/lyft.png",
+    "description": [
+      "Designed and implemented backend data pipeline and API to launch 200k Lyft City Guides using Flask, Presto, and DynamoDB to generate 100k+ page views of organic traffic through SEO"],
+    "links": [
+      {
+        "title": "CHECK THEM OUT",
+        "href": "https://www.lyft.com/rider/city-guides/san-francisco--ca"
+      }
+    ]
+  } ,
+  {
+    "title": "Google - News on Search",
+    "role": "Associate Product Manager",
+    "time": "Summer 2019",
+    "image": "/pictures/news.png",
+    "description": [
+      "Lead product development for several features on Top Stories and News Mode on Google search"],
+    "links": [
+    ]
+  } ,
+  {
+    "title": "Google - Google Earth Engine",
+    "role": "Engineering Practicum Intern",
+    "time": "Summer 2018",
+    "image": "/pictures/earthengine.png",
+    "description": [
+      "Created a Color API and GIF encoding service for Google Earth Engine"],
+    "links": [
+      {
+        "title": "CHECK IT OUT",
+        "href": "https://earthengine.google.com/"
+      }
+    ]
+  }
+]

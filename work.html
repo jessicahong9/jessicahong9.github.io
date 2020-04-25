@@ -1,0 +1,46 @@
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+          integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="/styles/main.css" />
+    <link rel="stylesheet" href="/styles/index.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="/scripts/main.js"></script>
+    <script src="/scripts/elements.js"></script>
+    <script src="/scripts/index.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Abril Fatface' rel='stylesheet'>
+</head>
+
+<body>
+<title>Jessica</title>
+<div id="navbar"></div>
+<div id="header"></div>
+<div id="index"></div>
+<div class="maingrid" >
+    <div  id="mainrow" class="row" style="margin-bottom: 48px;"></div>
+</div>
+<div id="footer"></div>
+<script>
+    generateNavbar(d3.select("div#navbar"), "projects")
+
+    d3.json("./work.json").then((data) => {
+
+        section = d3.select("div#mainrow").append("div")
+            .attr("id", "WORK EXPERIENCE")
+            .style("padding", "25px")
+
+        section.append("header").style('padding-left', '20px').text('PROJECTS')
+
+        generateProjects( data, section)
+    });
+
+    generateFooter(d3.select("div#footer"))
+</script>
+</body>
+</html>
